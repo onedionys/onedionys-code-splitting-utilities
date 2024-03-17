@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-code-splitting-utilities",
+  "version": "1.0.0",
+  "description": "One Dionys (Code Splitting Utilities) - A utility to break application code into smaller bundles, speeding up page load times and improving performance.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-code-splitting-utilities.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "code-splitting-utilities"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-code-splitting-utilities/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-code-splitting-utilities#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
