@@ -1,6 +1,6 @@
 {
   "name": "onedionys-code-splitting-utilities",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Code Splitting Utilities) - A utility to break application code into smaller bundles, speeding up page load times and improving performance.",
   "main": "src/index.js",
   "directories": {
